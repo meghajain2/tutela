@@ -49,3 +49,7 @@ li > a {
 li > a:hover {
     color: white;
 }
+
+.mockup-img {
+    width: 500px;
+}
